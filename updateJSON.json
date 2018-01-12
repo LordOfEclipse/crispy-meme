@@ -1,0 +1,17 @@
+{
+  "homepage": "https://github.com/LordOfEclipse/world_craftsman",
+
+  "1.7.10": {
+
+    "0.0.0-Alpha+20171231152030": "初步搭建起环境", 
+
+  },
+
+  "promos": {
+
+    "1.7.10-latest": "0.0.0-Alpha+20171231152030",
+
+    "1.7.10-recommended": "0.0.0-Alpha+20171231152030",
+
+  }
+}
